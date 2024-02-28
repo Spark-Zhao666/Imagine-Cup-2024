@@ -17,5 +17,4 @@ class Sleep_CNN(nn.modules):
         self.bn2 = nn.BatchNorm2d(128)
         self.mp2 = nn.MaxPool2d(3,2)
 
-        Larry
 
